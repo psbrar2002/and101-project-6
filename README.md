@@ -1,14 +1,14 @@
 # AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: **Your Name Here**
+Submitted by: **Prabhdeep Brar**
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+**Pokemon Info** is an android app that **displays a scrollable list of characters from the pokeapi API**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😎😰🤯**
 
 ## Application Features
 
@@ -16,9 +16,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Implement a RecyclerView to display a list of entries from the API
-- [ ] Display at least three (3) pieces of data for each RecyclerView item
+- [x] Make an API call to an API of your choice using AsyncHTTPClient
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
@@ -34,9 +34,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://user-images.githubusercontent.com/96799357/230692337-97ca95f7-2fa1-4279-84e2-3244c0afdffa.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -45,7 +46,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In this unit I learned more about Kotlin, API's, and about the new RecyclerView.
 
 ## License
 
