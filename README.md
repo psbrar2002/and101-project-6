@@ -6,7 +6,7 @@ Time spent: **9** hours spent in total
 
 ## Summary
 
-**Pokemon Info** is an android app that **displays a scrollable list of characters from the pokeapi API**
+**PokeInfo** is an android app that **displays a scrollable list of characters from the pokeapi API**
 
 If I had to describe this project in three (3) emojis, they would be: **😎😰🤯**
 
